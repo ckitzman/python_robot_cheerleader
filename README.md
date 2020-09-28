@@ -2,6 +2,7 @@
 '''
 A Robotic Cheerleader!!
 '''
+
 an_letters = "aefhilmnorsxAEFHILMNORSX"
 
 word = input("I will cheer for you! Enter a word: ")
